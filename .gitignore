@@ -1,0 +1,36 @@
+# Java class files
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+target/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA files
+*.iml
+.idea/
+*.ipr
+*.iws
+out/
+
+# NetBeans files
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
