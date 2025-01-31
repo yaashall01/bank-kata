@@ -32,9 +32,9 @@ en respectant l’interface imposée `AccountService` et en appliquant une appro
    ```bash
    mvn clean test
    ```
-3. **Exécuter l’application** (si vous avez une classe `App`) :
+3. **Exécuter l’application**  :
    ```bash
-   mvn clean compile exec:java -Dexec.mainClass="com.yassinechalh.bankkata.Main"
+   mvn clean compile exec:java -Dexec.mainClass="com.yassinechalh.bankkata.App"
    ```
    Vous verrez alors un relevé s’afficher dans la console.
 
